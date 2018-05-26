@@ -35,24 +35,24 @@ public class MainActivity extends AppCompatActivity {
         singleWebsites = new ArrayList<>();
 
 //website 1
-        singleWebsites.add(new SingleWebsite("Daraz", "https://www.daraz.pk/"));
+        singleWebsites.add(new SingleWebsite("Ebay", "https://www.ebay.com/"));
 //website 2
-        singleWebsites.add(new SingleWebsite("career jet", "https://www.careerjet.ae/"));
+        singleWebsites.add(new SingleWebsite("Amazon", "https://www.amazon.com/"));
 
 //website 3
-        singleWebsites.add(new SingleWebsite("Bayt", "https://www.bayt.com/en/pakistan/"));
+        singleWebsites.add(new SingleWebsite("Ebay", "https://www.ebay.com/"));
 //website 4
-        singleWebsites.add(new SingleWebsite("Daraz", "https://www.daraz.pk/"));
+        singleWebsites.add(new SingleWebsite("Amazon", "https://www.amazon.com/"));
 
 //website 5
-        singleWebsites.add(new SingleWebsite("Bayt", "https://www.bayt.com/en/pakistan/"));
+        singleWebsites.add(new SingleWebsite("Amazon", "https://www.amazon.com/"));
 //website 6
-        singleWebsites.add(new SingleWebsite("Daraz", "https://www.daraz.pk/"));
+        singleWebsites.add(new SingleWebsite("Ebay", "https://www.ebay.com/"));
 
 //website 7
-        singleWebsites.add(new SingleWebsite("Bayt", "https://www.bayt.com/en/pakistan/"));
+        singleWebsites.add(new SingleWebsite("Amazon", "https://www.amazon.com/"));
 //website 8
-        singleWebsites.add(new SingleWebsite("career jet", "https://www.careerjet.ae/"));
+        singleWebsites.add(new SingleWebsite("Amazon", "https://www.amazon.com/"));
 
     }
 
